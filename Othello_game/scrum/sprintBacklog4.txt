@@ -1,0 +1,91 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : ueshiger STATUS : Complete
+NAME     : Better strategy
+OWNER    : Ryo Ueshige
+PRIORITY : 2
+ESTIMATE : 4 hours    ACTUAL : 3 hours  
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : ueshiger STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : Ryo Ueshige
+PRIORITY : 3
+ESTIMATE : 5 hour    ACTUAL : 5 hour  
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the 
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : weidani2 STATUS : Complete
+NAME     : Architecture Document
+OWNER    : Daniel Wei
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 1 hour   
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.18 : UTORID : ueshiger STATUS : Complete
+NAME     : ViewController split
+OWNER    : Ryo Ueshige
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL :  30 minutes
+ISSUE    : Separate methods and logics associated with view from OthelloApplication.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.19 : UTORID : weidani2 STATUS : Complete
+NAME     : SFX
+OWNER    : Daniel Wei
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : Add Sound Effects to the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.19 : UTORID : weidani2 STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : Daniel Wei
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour  
+ISSUE    : Sound effects not compatible with java11, it was working on our machines that's running java8, due to time constraints,
+our group decided to remove the sounds to make the code run on the lab machines, the code/files for the sound effects can be found in US 1.22
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.20 : UTORID : ueshiger STATUS : Complete
+NAME     : Change Timer into labels
+OWNER    : Ryo Ueshige
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 hour  
+ISSUE    : Now an user can set timer using text box and timer is shown by labels.
+While in game, timer is not editable.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.21 : UTORID : ueshiger STATUS : Complete
+NAME     : Update GUI
+OWNER    : Ryo Ueshige
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : Instead of putting all information to the right side of the view,
+who's turn, token number on the field, winner and timers are now put into left.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.22 : UTORID : shiwenb2 STATUS : Complete
+NAME     : Redesign Layout
+OWNER    : Wenbo Shi
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : Redesign game board, the keep mode and hint, best move, restart, undo button in right
+side of the board. Add othello game logo and a animation of gif in right side.
+--------------------------------------------------------------------------
+

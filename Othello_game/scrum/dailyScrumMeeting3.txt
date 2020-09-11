@@ -1,0 +1,555 @@
+<<<<<<< HEAD
+# Fill in, commit and push each day.
+Member name: Wenbo Shi     email:  wenbo.shi@mail.utoronto.ca   utorid:  shiwenb2
+
+Oct 17,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 18,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 19,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 20,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 21,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 22,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 23,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Added my contact information to members.txt
+	Obstacles I face:
+		- None
+
+Oct 24,2019
+	What I did yesterday:
+		- Added my contact information to members.txt
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 25,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Fix error of JavaFx
+	Obstacles I face:
+		- None
+
+Oct 26,2019
+	What I did yesterday:
+		- Fix error of JavaFx
+	What I will do today:
+		- Fill in DailyScrumMeeting3.txt.
+	Obstacles I face:
+		- None
+
+Oct 27,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+		-None
+	What I will do today:
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday:
+		-US1.03
+	What I will do today:
+		-US1.03
+		-US1.04
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday:
+		-US1.04
+	What I will do today:
+		-US1.04
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+		-US1.04
+	What I will do today:
+		-US1.05
+		- Merge my branch to master
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+		- finished US1.04
+		- Merge my branch to master
+	What I will do today:
+		- Midterm Test
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+		- Midterm Test
+	What I will do today:
+		- US1.10
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.10
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+		- US1.10
+	What I will do today:
+		- US1.10
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+		- US1.10
+	What I will do today:
+		- Finished US1.10
+		- Start making animation with Tony
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+		- Animation
+	What I will do today:
+		- Create 14 images for flip chess animation
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+		- Working on animation
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Keep working on animation
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+		- Animation
+	What I will do today:
+		- Group meeting
+		- Finished animation and fix bug in Grid class
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday:
+		- Finished animation with Tony
+	What I will do today:
+		- Fix bugs(in othello view, grid, othelloboard)
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday:
+		- Fix bugs
+	What I will do today:
+		- redesign the GUI
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday:
+		- redesign GUI
+		- Fix bugs
+	What I will do today:
+		- Fix bugs
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+=======
+# Fill in, commit and push each day.
+Member name: Wenbo Shi     email:  wenbo.shi@mail.utoronto.ca   utorid:  shiwenb2
+
+Oct 17,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 18,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 19,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 20,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 21,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 22,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 23,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Added my contact information to members.txt
+	Obstacles I face:
+		- None
+
+Oct 24,2019
+	What I did yesterday:
+		- Added my contact information to members.txt
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 25,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Fix error of JavaFx
+	Obstacles I face:
+		- None
+
+Oct 26,2019
+	What I did yesterday:
+		- Fix error of JavaFx
+	What I will do today:
+		- Fill in DailyScrumMeeting3.txt.
+	Obstacles I face:
+		- None
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+>>>>>>> 378f3033d79c4095074842d2526e9fc187eabe10

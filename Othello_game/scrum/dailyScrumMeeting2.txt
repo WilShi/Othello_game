@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:TonyP      email:yixuan.peng@mail.utoronto.ca     utorid:pengyixu
+
+Oct 17,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 18,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 19,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 20,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 21,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 22,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 23,2019
+	What I did yesterday:None
+	What I will do today:None
+	Obstacles I face:None
+
+Oct 24,2019
+	What I did yesterday:None
+	What I will do today:First group meeting! We meet together and share contact information with each other.
+	Obstacles I face: Not yet. Good start!
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:To comfirm the environment is properly setup.
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today:working on BUG 0.01 and heading to US1.021.
+	Obstacles I face:
+
+Oct 27,2019
+	What I did yesterday: finished Bug 0.01 - 0.04
+	What I will do today: Start working on UserStory
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today: group plan for Userstory 1.01 - 1.08
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: made plans for Sprint 2
+	What I will do today: work on my Userstory 1.05 - 1.06
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: finished Userstory 1.05 - 1.06
+	What I will do today: work on Userstory 1.08 - 1.09
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today: prepare for midterm.
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday: Finished Midterm!
+	What I will do today: double check Userstory1.06
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday: Finish checking UserStory1.06
+	What I will do today: start working on UserStory1.08
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday: Finished UserStory1.08
+	What I will do today: work on Userstory1.09
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today: work on Userstory1.09
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today: Finished UserStory1.09
+	Obstacles I face: try improve the structure
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today: work on Userstory1.091
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today: work on Userstory1.091
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today: Finished Userstory1.091
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today: work on UserStory 1.13
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today: work on UserStory 1.13
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today: Finshed UserStory 1.13
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday: Finshed UserStory 1.13
+	What I will do today: Prepare for test
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday Finished test 
+	What I will do today: Identify buggs and add more userstories
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday: Found out bugs for undo and restart buttons
+	What I will do today: Solve bugs
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today: Redesign the layout of the game 
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today: Redesign the layout of the game, try to put more icons and images
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today: Final check of all the coding and patterns
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

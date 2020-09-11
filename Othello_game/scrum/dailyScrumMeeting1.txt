@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Daniel Wei     email: dan.wei@mail.utoronto.ca    utorid: weidani2  
+
+Oct 17,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 18,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 19,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 20,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 21,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 22,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 23,2019
+	What I did yesterday: None
+	What I will do today: added info to members.txt
+	Obstacles I face: None
+
+Oct 24,2019
+	What I did yesterday: added info to members.txt
+	What I will do today: set up my environment for this project
+	Obstacles I face: java 11 not working with the javaFX I downloaded, used java 8 at the end.
+
+Oct 25,2019
+	What I did yesterday: Set up my environment for this project
+	What I will do today: Meeting with team members
+	Obstacles I face: None
+
+Oct 26,2019
+	What I did yesterday: Meeting with team members
+	What I will do today: Document my meeting, and work on sprintBacklog1.
+	Obstacles I face: None
+
+Oct 27,2019
+	What I did yesterday: Document my meeting, and work on sprintBacklog1.
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 28,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Oct 29,2019
+	What I did yesterday: None
+	What I will do today: Meet up with team mates.
+	Obstacles I face: None
+
+Oct 30,2019
+	What I did yesterday: Meet up with team mates.
+	What I will do today: Starting to work on US1.02, created buttons for US1.07
+	Obstacles I face: buildpath problems, Grid not changing on view.
+
+Oct 31,2019
+	What I did yesterday: work on US1.02
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 1,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 2,2019
+	What I did yesterday: None
+	What I will do today: Finish and Merge US1.02
+	Obstacles I face: None
+
+Nov 3,2019
+	What I did yesterday: Finish and Merge US1.02
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 4,2019
+	What I did yesterday: None
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 5,2019
+	What I did yesterday: None 
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 6,2019
+	What I did yesterday: None
+	What I will do today: Meet up and discuss User Stories
+	Obstacles I face: None
+
+Nov 7,2019
+	What I did yesterday: Meet up and discuss User Stories
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 8,2019
+	What I did yesterday: None
+	What I will do today: Start to work on User Story, start to work on architecture.txt
+	Obstacles I face: None
+
+Nov 9,2019
+	What I did yesterday: worked on architecture.txt
+	What I will do today: work on US1.12
+	Obstacles I face: undo button overwrites previous boards
+
+Nov 10,2019
+	What I did yesterday: start working on US1.12
+	What I will do today: finish working on US1.12, add sounds to Move and undo
+	Obstacles I face: after testing for a while I found the problem, used the copy method instead of adding the board in directly.
+
+Nov 11,2019
+	What I did yesterday: Working on US1.12
+	What I will do today: None
+	Obstacles I face: None
+
+Nov 12,2019
+	What I did yesterday: None
+	What I will do today: fixed a bug in Othello and updated undo to work with timer
+	Obstacles I face: None
+
+Nov 13,2019
+	What I did yesterday: fixed a bug in Othello and updated undo to work with timer
+	What I will do today: coming up with ideas to improve the project
+	Obstacles I face: none
+
+Nov 14,2019
+	What I did yesterday: coming up with ideas to improve the project
+	What I will do today: researching for sound effects 
+	Obstacles I face: none
+
+Nov 15,2019
+	What I did yesterday: researching for sound effects 
+	What I will do today: add sound effect to move and victory
+	Obstacles I face: none
+
+Nov 16,2019
+	What I did yesterday: add sound effect to move and victory
+	What I will do today: javadoc for the methods in the project
+	Obstacles I face: none
+
+Nov 17,2019
+	What I did yesterday: none
+	What I will do today: Meet with team and finalize project, finish documentation and configure lab setup
+	Obstacles I face: none
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

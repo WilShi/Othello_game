@@ -1,0 +1,333 @@
+# Fill in, commit and push each day.
+Member name: Ryo Ueshige email: ryo.ueshige@mail.utoronto.ca utorid: ueshiger   
+
+Oct 17,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 18,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 19,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 20,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 21,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 22,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 23,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 24,2019
+	What I did yesterday:
+		- Added my contact information to members.txt
+	What I will do today:
+		- N/A
+	Obstacles I face:
+		- N/A
+
+Oct 25,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Oct 26,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Fill in DailyScrumMeeting4.txt.
+		- Completed setting up development environment in my computer.
+	Obstacles I face:
+		- None
+
+Oct 27,2019
+	What I did yesterday:
+		- US1.011
+	What I will do today:
+		- Continue on US1.011
+	Obstacles I face:
+		- None
+
+Oct 28,2019
+	What I did yesterday:
+		- US1.011
+	What I will do today:
+		- Continue on US1.011
+		- US1.012
+	Obstacles I face:
+		- None
+
+Oct 29,2019
+	What I did yesterday:
+		- US1.011
+	What I will do today:
+		- Continue working on US1.011
+	Obstacles I face:
+		- I am struggling with creating good MVC pattern. 
+
+Oct 30,2019
+	What I did yesterday:
+		- US1.011
+	What I will do today:
+		- US1.012
+		- US1.02
+	Obstacles I face:
+		- None
+
+Oct 31,2019
+	What I did yesterday:
+		- US1.012
+		- US1.02 (Work in progress)
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 1,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.02
+	Obstacles I face:
+		- None
+
+Nov 2,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 3,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.07
+	Obstacles I face:
+		- None
+
+Nov 4,2019
+	What I did yesterday:
+		- US1.07
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 5,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- A part of US1.10
+		- US1.11
+		- US1.14
+	Obstacles I face:
+		- None
+
+Nov 6,2019
+	What I did yesterday:
+		- US1.11
+		- US1.14
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 7,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 8,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.09 with Tony
+	Obstacles I face:
+		- None
+
+Nov 9,2019
+	What I did yesterday:
+		- US1.09 with Tony
+	What I will do today:
+		- Refactoring Timer
+	Obstacles I face:
+		- None
+
+Nov 10,2019
+	What I did yesterday:
+		- US1.09 with Tony
+		- Refactoring Timer
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 11,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.15
+		- Create View class
+	Obstacles I face:
+		- None
+
+Nov 12,2019
+	What I did yesterday:
+		- US1.15
+		- Created OthelloView.java
+	What I will do today:
+		- None
+	Obstacles I face:
+		- None
+
+Nov 13,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- US1.17
+	Obstacles I face:
+		- None
+
+Nov 14,2019
+	What I did yesterday:
+		- US1.17
+	What I will do today:
+		- None
+	Obstacles I face:
+		- Implementation of Visitor pattern is difficult
+
+Nov 15,2019
+	What I did yesterday:
+		- None
+	What I will do today:
+		- Help adding animation to the move
+	Obstacles I face:
+		- None
+
+Nov 16,2019
+	What I did yesterday:
+		- Help adding animation to the move
+	What I will do today:
+		- US1.17
+		- US1.20
+		- US1.22
+	Obstacles I face:
+		- None
+
+Nov 17,2019
+	What I did yesterday:
+		- US1.17
+		- US1.20
+		- US1.22
+	What I will do today:
+		- US1.17
+		- Help undo, restart and show hint.
+	Obstacles I face:
+		- None
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

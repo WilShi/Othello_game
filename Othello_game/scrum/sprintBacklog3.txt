@@ -1,0 +1,84 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID : pengyixu STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : yixuan peng 
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : UTORID : pengyixu STATUS : Complete
+NAME     : Othello Timer User Specified Time
+OWNER    : yixuan peng 
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : UTORID : shiwenb2 STATUS : Complete
+NAME     : AI Hint
+OWNER    : Wenbo Shi
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 1 hour  
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+
+NOTE: Add some other user stories (1.101, 1.102, ...) which improve on this,
+For example: 
+1) Instead of displaying the (row,col) how about highlighting the position
+on the board.
+
+2) User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+
+3) As in 2, but a random hint
+...
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : ueshiger STATUS : Complete
+NAME     : Restart
+OWNER    : Ryo Ueshige
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID : weidani2 STATUS : Complete
+NAME     : Undo
+OWNER    : Daniel
+PRIORITY : 2
+ESTIMATE : 4 hours   ACTUAL : 2 days
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID : pengyixu  STATUS : Complete
+NAME     : Animation
+OWNER    : yixuan peng / Wenbo Shi
+PRIORITY : 2
+ESTIMATE : 2 Days    ACTUAL : 2 Days
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : UTORID : ueshiger STATUS : Complete
+NAME     : Available moves
+OWNER    : Ryo Ueshige
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
